@@ -1,0 +1,31 @@
+mypy result: 1_1260.py
+Success: no issues found in 1 source file
+------------
+mypy result: 2_11866.py
+Success: no issues found in 1 source file
+------------
+mypy result: 2_2164.py
+Success: no issues found in 1 source file
+------------
+mypy result: 3_10830.py
+Success: no issues found in 1 source file
+------------
+mypy result: 3_1629.py
+Success: no issues found in 1 source file
+------------
+mypy result: 4_3080.py
+Success: no issues found in 1 source file
+------------
+mypy result: 4_5670.py
+4_5670.py:66: error: Incompatible types in assignment (expression has type "None", variable has type "int")  [assignment]
+Found 1 error in 1 file (checked 1 source file)
+------------
+mypy result: 5_17408.py
+Success: no issues found in 1 source file
+------------
+mypy result: 5_2243.py
+Success: no issues found in 1 source file
+------------
+mypy result: 5_3653.py
+Success: no issues found in 1 source file
+------------
